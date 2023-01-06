@@ -1,0 +1,2 @@
+Recuerda que el archivo excel fue donde conseguiste transformar los datos a numero, 
+recureda que el problema eran los puntos hay que pasarlos a comas o a la inversa, comprobar
